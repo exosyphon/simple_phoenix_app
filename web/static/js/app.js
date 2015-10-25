@@ -28,6 +28,3 @@ React.render(
 		document.getElementById("mydiv")
 );
 
-let App = {}
-
-export default App
